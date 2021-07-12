@@ -1,0 +1,8 @@
+{
+  "name": "Team Profile Generator",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.1.1"
+  }
+}
